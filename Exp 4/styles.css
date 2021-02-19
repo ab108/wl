@@ -1,0 +1,66 @@
+*{
+    font-size: 18px;
+    color: white;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 50px;
+    border: 2px solid #e6e6e6;
+    width: 40%;
+}
+
+span{
+    color:black;
+    font-size: 13px;
+    padding-left: 60%;
+    position: absolute;
+}
+#bg{
+   background: linear-gradient(to right, #fc466b, #3f5efb);
+}
+  
+#submit{    
+    background-color: #3f5efb; 
+    padding: 5px 100px;
+    color: white; 
+    border:  0.5px solid;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: all 1s;
+    width: 122%;
+}
+  
+#submit:hover {
+    background-color:  #5c7cfd ;
+    color: white;
+  }
+
+input{
+    border: 1px solid  rgb(255,195,032,0.1);
+    border-radius: 10px;
+    width: 90%;
+    background: rgb(189,142,188,0.5);
+    margin-left: 50px;
+    padding-left: 10px;
+}
+
+.row{
+    padding: 10px 0px;
+}
+
+label{
+    margin: auto;
+}
+
+#age{
+    padding-left: 70px;
+}
+
+#result{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 2% 39%;
+    
+}
+
